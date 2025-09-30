@@ -3,6 +3,9 @@ Overview
 
 This project delivers a production and inventory performance analysis for the Microsoft AdventureWorks bicycle manufacturing database. The objective was to design a scalable data model, apply analytical techniques, and build an interactive reporting solution that enables decision-makers to optimize production efficiency, reduce costs, and manage inventory more effectively.
 
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+
 Business Problem
 
 Manufacturing companies often face challenges such as:
@@ -14,6 +17,8 @@ High waste and scrap percentages impacting margins
 Ineffective inventory turnover leading to capital lock-up
 
 This project addresses these challenges by transforming raw ERP data into actionable insights.
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Technical Approach
 
@@ -24,6 +29,8 @@ Queried AdventureWorks ERP dataset using SQL Server
 Modeled data into a star schema for efficient querying
 
 Pre-processed data with Python for cleaning and transformation
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Data Modeling
 
@@ -40,6 +47,8 @@ Developed Power BI dashboards with custom KPIs and DAX measures
 Designed fiscal year calendar (Oct–Sep) for time-based analysis
 
 Implemented interactive navigation for Production and Inventory views
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Key Insights
 
@@ -50,6 +59,8 @@ Highlighted fiscal year trends in waste cost, enabling corrective actions in hig
 Revealed assembly lines with disproportionate inventory value holdings, improving allocation decisions
 
 Demonstrated declining inventory turnover in specific categories, indicating potential overproduction
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Business Impact
 
@@ -60,6 +71,8 @@ Waste reduction opportunities identified, with potential to cut scrap costs by u
 Optimized inventory allocation, reducing working capital lock-up
 
 Enabled leadership to monitor KPIs in real time via a centralized dashboard
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Tech Stack
 
@@ -68,6 +81,8 @@ Python – data cleaning and preprocessing
 SQL Server – data extraction and schema modeling
 
 Power BI – interactive dashboards, KPIs, and advanced DAX calculations
+--------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Outcome
 
