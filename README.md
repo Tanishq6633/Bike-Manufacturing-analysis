@@ -1,4 +1,4 @@
-ike Manufacturing and Inventory Analysis
+Bike Manufacturing and Inventory Analysis
 Overview
 
 This project delivers a production and inventory performance analysis for the Microsoft AdventureWorks bicycle manufacturing database. The objective was to design a scalable data model, apply analytical techniques, and build an interactive reporting solution that enables decision-makers to optimize production efficiency, reduce costs, and manage inventory more effectively.
